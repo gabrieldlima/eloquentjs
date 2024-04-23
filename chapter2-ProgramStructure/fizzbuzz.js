@@ -19,7 +19,6 @@ of programmer candidates. So if you solved it, your labor
 market value just went up.)
 */
 
-
 for (let counter = 1; counter <= 100; counter++) {
   if (counter % 5 == 0 && counter % 3 == 0) {
     console.log("FizzBuzz");
